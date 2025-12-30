@@ -252,9 +252,6 @@ npm run dev
 
 MIT License
 
-## 作者
-
-学生信息管理助手开发团队
 
 ## 致谢
 
